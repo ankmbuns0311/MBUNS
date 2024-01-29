@@ -1,6 +1,6 @@
-# mb_uns
+# MBUNS Apps
 
-A new Flutter project.
+Projek Skripsi Ahmad
 
 ## Getting Started
 
